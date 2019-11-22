@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+tf_models/
 build/
 develop-eggs/
 dist/
